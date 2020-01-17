@@ -1,5 +1,5 @@
 /**
- * @author a.billingsley
+ * @author 
  * 
  * This is a proposed solution for use case #3
  * in the technical assessment for ncl.
@@ -16,7 +16,7 @@ describe('NCL Protractor Demo', function() {
 
     //Creates browser instance 
     //Used for a user action in the last test
-    userSim = browser;
+    //userSim = browser;
 
     
     function writeScreenShot(data, filename) {
